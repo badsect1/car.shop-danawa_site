@@ -1,0 +1,72 @@
+{
+  "news_sources": [
+    {
+      "name": "모터그래프 (Motorgraph)",
+      "feed_url": "https://www.motorgraph.com/rss/allArticle.xml",
+      "enabled": true
+    },
+    {
+      "name": "오토데일리 (AutoDaily)",
+      "feed_url": "https://www.autodaily.co.kr/rss/allArticle.xml",
+      "enabled": true
+    },
+    {
+      "name": "구글 뉴스 - 자동차 토픽",
+      "feed_url": "https://news.google.com/rss/headlines/section/topic/AUTOS?hl=ko&gl=KR&ceid=KR:ko",
+      "enabled": true
+    }
+  ],
+  "google_sheet": {
+    "spreadsheet_name_or_id": "1jZSjAFltM0g2d2dmQx8MIV7H4QF8sdJGMfGz--tQEp0",
+    "worksheet_name": "자동차_뉴스_블로그"
+  },
+  "settings": {
+    "check_recent_count": 5,
+    "gemini_model": "gemini-3.5-flash-lite",
+    "request_delay_seconds": 2
+  },
+  "channels_backup": [
+    {
+      "name": "Motorian모터리언",
+      "handle": "@motorian2585",
+      "channel_id": "UCrXkDAx7w0EbfnyM7yNzmpQ",
+      "enabled": false
+    },
+    {
+      "name": "한상기 오토프레스 Han Sang Ki",
+      "handle": "@HanSangKi",
+      "channel_id": "UC-IBt8pM8hWx8wiwjcDLdIQ",
+      "enabled": false
+    },
+    {
+      "name": "mediaAUTO 미디어오토",
+      "handle": "@mediaAUTO",
+      "channel_id": "UCT29dZNPg6exiMyMrVLL0fg",
+      "enabled": false
+    },
+    {
+      "name": "오토기어 autogear",
+      "handle": "@autogearr",
+      "channel_id": "UCsjzJWuBnPyA8-tj9pEDwXg",
+      "enabled": false
+    },
+    {
+      "name": "오토뷰(AutoView)",
+      "handle": "@autoview2009",
+      "channel_id": "UCfcgDLazgMa1L92Kl3r9ZAA",
+      "enabled": false
+    },
+    {
+      "name": "모트라인 MOTline",
+      "handle": "@Motline",
+      "channel_id": "UCMTZqwCdw9Nynw9BkCgfeRQ",
+      "enabled": false
+    },
+    {
+      "name": "김한용의 MOCAR",
+      "handle": "@mocar_official",
+      "channel_id": "UCd5CdYxogKBwvv1xyuxhvZA",
+      "enabled": false
+    }
+  ]
+}

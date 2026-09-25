@@ -1,0 +1,20 @@
+# 환경 변수 및 보안 키 (절대 깃허브 업로드 금지)
+.env
+service_account.json
+cookies.txt
+
+# 파이썬 캐시 및 로그
+__pycache__/
+*.py[cod]
+*$py.class
+run.log
+*.log
+
+# 가상환경
+venv/
+.venv/
+env/
+
+# IDE 설정
+.vscode/
+.idea/

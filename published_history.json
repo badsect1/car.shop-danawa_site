@@ -1,0 +1,26 @@
+{
+  "published_ids": [
+    "idx_44594",
+    "idx_44598"
+  ],
+  "posts": [
+    {
+      "post_id": 293,
+      "news_id": "idx_44594",
+      "title": "벤틀리 최초의 순수 전기 SUV '토르칼' 베일 벗었다… 888마력의 압도적 스펙",
+      "slug": "bentley-torcal-ev-suv-unveiled",
+      "url": "https://car.shop-danawa.co.kr/?p=293",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44594",
+      "published_at": "2026-09-25 15:07:07"
+    },
+    {
+      "post_id": 292,
+      "news_id": "idx_44598",
+      "title": "현대차, 코이카와 손잡고 모로코 마라케시에 친환경 전기버스 '일렉시티' 15대 공급",
+      "slug": "hyundai-electicity-morocco-marrakech-koica",
+      "url": "https://car.shop-danawa.co.kr/?p=292",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44598",
+      "published_at": "2026-09-25 15:05:28"
+    }
+  ]
+}
