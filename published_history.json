@@ -1,9 +1,19 @@
 {
   "published_ids": [
     "idx_44594",
-    "idx_44598"
+    "idx_44598",
+    "idx_44597"
   ],
   "posts": [
+    {
+      "post_id": 294,
+      "news_id": "idx_44597",
+      "title": "2026 연례 자동차 조사: 렉서스, 초기·내구 품질 2년 연속 2관왕 달성",
+      "slug": "2026-consumer-insight-lexus-toyota-quality-rank",
+      "url": "https://car.shop-danawa.co.kr/?p=294",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44597",
+      "published_at": "2026-09-25 06:31:21"
+    },
     {
       "post_id": 293,
       "news_id": "idx_44594",
