@@ -9,9 +9,19 @@
     "idx_600715",
     "idx_600729",
     "idx_600751",
-    "idx_44607"
+    "idx_44607",
+    "idx_44609"
   ],
   "posts": [
+    {
+      "post_id": 305,
+      "news_id": "idx_44609",
+      "title": "첨단 ADAS의 핵심, 라이다(RADAR) 센서 조립을 완성하는 첨단 접착제 기술",
+      "slug": "radar-sensor-bonding-technology-delo-adas",
+      "url": "https://car.shop-danawa.co.kr/?p=305",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44609",
+      "published_at": "2026-09-29 15:14:47"
+    },
     {
       "post_id": 304,
       "news_id": "idx_44607",
