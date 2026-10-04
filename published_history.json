@@ -16,9 +16,19 @@
     "idx_44619",
     "idx_44635",
     "idx_44638",
-    "idx_44640"
+    "idx_44640",
+    "idx_44636"
   ],
   "posts": [
+    {
+      "post_id": 312,
+      "news_id": "idx_44636",
+      "title": "전기차 충전의 혁신, 꽂기만 하면 끝나는 '국가 표준 PnC' 첫 공개",
+      "slug": "national-standard-pnc-charging-system-unveiled",
+      "url": "https://car.shop-danawa.co.kr/?p=312",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44636",
+      "published_at": "2026-10-04 14:31:02"
+    },
     {
       "post_id": 311,
       "news_id": "idx_44640",
