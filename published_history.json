@@ -17,9 +17,19 @@
     "idx_44635",
     "idx_44638",
     "idx_44640",
-    "idx_44636"
+    "idx_44636",
+    "idx_44634"
   ],
   "posts": [
+    {
+      "post_id": 313,
+      "news_id": "idx_44634",
+      "title": "현대차·기아, 서울시와 손잡고 레벨4 자율주행 시내버스 상용화 본격 시동",
+      "slug": "hyundai-kia-seoul-level4-autonomous-bus-mou",
+      "url": "https://car.shop-danawa.co.kr/?p=313",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44634",
+      "published_at": "2026-10-05 03:05:53"
+    },
     {
       "post_id": 312,
       "news_id": "idx_44636",
