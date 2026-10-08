@@ -23,9 +23,19 @@
     "idx_44646",
     "idx_44664",
     "idx_44677",
-    "idx_44668"
+    "idx_44668",
+    "idx_44666"
   ],
   "posts": [
+    {
+      "post_id": 319,
+      "news_id": "idx_44666",
+      "title": "챗GPT·제미나이가 추천하는 최고의 차는? 생성형 AI가 분석한 자동차 브랜드 순위 대공개",
+      "slug": "ai-car-recommendation-analysis-aibix",
+      "url": "https://car.shop-danawa.co.kr/?p=319",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44666",
+      "published_at": "2026-10-08 15:58:11"
+    },
     {
       "post_id": 318,
       "news_id": "idx_44668",
