@@ -37,9 +37,19 @@
     "idx_44713",
     "idx_44714",
     "idx_44715",
-    "idx_44723"
+    "idx_44723",
+    "idx_44725"
   ],
   "posts": [
+    {
+      "post_id": 333,
+      "news_id": "idx_44725",
+      "title": "현대차 인도 진출 30년, 푸네 신공장 준공과 100만 대 생산 체제 돌입",
+      "slug": "hyundai-india-pune-plant-30th-anniversary",
+      "url": "https://car.shop-danawa.co.kr/?p=333",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44725",
+      "published_at": "2026-10-15 13:49:39"
+    },
     {
       "post_id": 332,
       "news_id": "idx_44723",
