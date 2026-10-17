@@ -39,9 +39,19 @@
     "idx_44715",
     "idx_44723",
     "idx_44725",
-    "idx_44730"
+    "idx_44730",
+    "idx_44733"
   ],
   "posts": [
+    {
+      "post_id": 335,
+      "news_id": "idx_44733",
+      "title": "수입차 살 때 유튜브 보고 전시장 간다? KAIDA가 분석한 소비자의 진짜 구매 패턴",
+      "slug": "kaida-import-car-purchase-journey-analysis",
+      "url": "https://car.shop-danawa.co.kr/?p=335",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44733",
+      "published_at": "2026-10-17 02:11:24"
+    },
     {
       "post_id": 334,
       "news_id": "idx_44730",
