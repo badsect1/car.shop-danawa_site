@@ -41,9 +41,19 @@
     "idx_44725",
     "idx_44730",
     "idx_44733",
-    "idx_44743"
+    "idx_44743",
+    "idx_44742"
   ],
   "posts": [
+    {
+      "post_id": 337,
+      "news_id": "idx_44742",
+      "title": "BMW 더 뉴 7시리즈 부분변경 사전예약 시작... 럭셔리 세단의 새로운 기준",
+      "slug": "bmw-new-7-series-pre-order-2026",
+      "url": "https://car.shop-danawa.co.kr/?p=337",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44742",
+      "published_at": "2026-10-18 02:11:24"
+    },
     {
       "post_id": 336,
       "news_id": "idx_44743",
