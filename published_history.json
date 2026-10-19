@@ -43,9 +43,19 @@
     "idx_44733",
     "idx_44743",
     "idx_44742",
-    "idx_44741"
+    "idx_44741",
+    "idx_44740"
   ],
   "posts": [
+    {
+      "post_id": 339,
+      "news_id": "idx_44740",
+      "title": "아우디 Q7, 유로 NCAP '충돌 후 안전성' 양산차 최초 100% 달성 대기록",
+      "slug": "audi-q7-euro-ncap-post-crash-safety-100-percent",
+      "url": "https://car.shop-danawa.co.kr/?p=339",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44740",
+      "published_at": "2026-10-19 02:27:15"
+    },
     {
       "post_id": 338,
       "news_id": "idx_44741",
