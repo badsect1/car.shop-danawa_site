@@ -53,9 +53,19 @@
     "idx_44765",
     "idx_44767",
     "idx_44773",
-    "idx_44786"
+    "idx_44786",
+    "idx_44785"
   ],
   "posts": [
+    {
+      "post_id": 349,
+      "news_id": "idx_44785",
+      "title": "제너럴 모터스(GM)가 그릴 미래 모빌리티: AI와 SDV로 재정의된 자동차의 모든 것",
+      "slug": "gm-forward-ai-sdv-future-mobility-vision",
+      "url": "https://car.shop-danawa.co.kr/?p=349",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44785",
+      "published_at": "2026-10-24 02:34:27"
+    },
     {
       "post_id": 348,
       "news_id": "idx_44786",
