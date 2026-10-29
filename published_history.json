@@ -63,9 +63,19 @@
     "idx_44797",
     "idx_44796",
     "idx_44794",
-    "idx_44827"
+    "idx_44827",
+    "idx_44822"
   ],
   "posts": [
+    {
+      "post_id": 359,
+      "news_id": "idx_44822",
+      "title": "현대차그룹, WHE 2026서 차세대 수소 상용 모빌리티 기술 총집합 공개",
+      "slug": "hyundai-motor-group-world-hydrogen-expo-2026",
+      "url": "https://car.shop-danawa.co.kr/?p=359",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44822",
+      "published_at": "2026-10-29 03:33:33"
+    },
     {
       "post_id": 358,
       "news_id": "idx_44827",
