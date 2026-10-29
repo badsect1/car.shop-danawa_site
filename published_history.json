@@ -64,9 +64,19 @@
     "idx_44796",
     "idx_44794",
     "idx_44827",
-    "idx_44822"
+    "idx_44822",
+    "idx_44828"
   ],
   "posts": [
+    {
+      "post_id": 360,
+      "news_id": "idx_44828",
+      "title": "제네시스 GV90 테크 데이 개최, 콘셉트카를 현실로 만든 럭셔리 전동화 SUV의 모든 것",
+      "slug": "genesis-gv90-tech-day-engineered-craftsmanship",
+      "url": "https://car.shop-danawa.co.kr/?p=360",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44828",
+      "published_at": "2026-10-29 15:44:45"
+    },
     {
       "post_id": 359,
       "news_id": "idx_44822",
