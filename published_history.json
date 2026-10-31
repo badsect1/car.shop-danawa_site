@@ -67,9 +67,19 @@
     "idx_44822",
     "idx_44828",
     "idx_44833",
-    "idx_44843"
+    "idx_44843",
+    "idx_44841"
   ],
   "posts": [
+    {
+      "post_id": 363,
+      "news_id": "idx_44841",
+      "title": "단 30대 한정! 브리티시 헤리티지 담은 'MINI 쿠퍼 옥스포드 에디션' 국내 출시",
+      "slug": "mini-cooper-oxford-edition-launch",
+      "url": "https://car.shop-danawa.co.kr/?p=363",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44841",
+      "published_at": "2026-10-31 03:20:52"
+    },
     {
       "post_id": 362,
       "news_id": "idx_44843",
