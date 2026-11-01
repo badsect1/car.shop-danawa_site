@@ -70,9 +70,19 @@
     "idx_44843",
     "idx_44841",
     "idx_44839",
-    "idx_44791"
+    "idx_44791",
+    "idx_44840"
   ],
   "posts": [
+    {
+      "post_id": 366,
+      "news_id": "idx_44840",
+      "title": "현대자동차, 글로벌 브랜드 가치 250억 달러 돌파… 창사 최초 20위권 진입",
+      "slug": "hyundai-brand-value-25b-interbrand-2026",
+      "url": "https://car.shop-danawa.co.kr/?p=366",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44840",
+      "published_at": "2026-11-01 15:37:47"
+    },
     {
       "post_id": 365,
       "news_id": "idx_44791",
