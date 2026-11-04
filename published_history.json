@@ -76,9 +76,19 @@
     "idx_44845",
     "idx_44849",
     "idx_44863",
-    "idx_44861"
+    "idx_44861",
+    "idx_44878"
   ],
   "posts": [
+    {
+      "post_id": 372,
+      "news_id": "idx_44878",
+      "title": "완전변경급으로 진화한 BMW 럭셔리 플래그십, 더 뉴 7시리즈 국내 출시",
+      "slug": "new-bmw-7-series-korea-release",
+      "url": "https://car.shop-danawa.co.kr/?p=372",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44878",
+      "published_at": "2026-11-04 16:41:49"
+    },
     {
       "post_id": 371,
       "news_id": "idx_44861",
