@@ -78,9 +78,19 @@
     "idx_44863",
     "idx_44861",
     "idx_44878",
-    "idx_44877"
+    "idx_44877",
+    "idx_601834"
   ],
   "posts": [
+    {
+      "post_id": 374,
+      "news_id": "idx_601834",
+      "title": "GM이 공개한 미래 자동차의 열쇠: SDV·AI 그리고 '가상 차량 개발' 기술의 모든 것",
+      "slug": "gm-sdv-ai-virtual-car-development-fisita-2026",
+      "url": "https://car.shop-danawa.co.kr/?p=374",
+      "original_url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601834",
+      "published_at": "2026-11-05 17:12:34"
+    },
     {
       "post_id": 373,
       "news_id": "idx_44877",
