@@ -77,9 +77,19 @@
     "idx_44849",
     "idx_44863",
     "idx_44861",
-    "idx_44878"
+    "idx_44878",
+    "idx_44877"
   ],
   "posts": [
+    {
+      "post_id": 373,
+      "news_id": "idx_44877",
+      "title": "\"차만 만드는 게 아니다\" 현대차그룹, 2027 넥쏘부터 AI 수소 밸리까지 '통합 수소 솔루션' 총정리",
+      "slug": "hyundai-motor-group-integrated-hydrogen-solutions-whe-2026",
+      "url": "https://car.shop-danawa.co.kr/?p=373",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44877",
+      "published_at": "2026-11-05 04:20:56"
+    },
     {
       "post_id": 372,
       "news_id": "idx_44878",
