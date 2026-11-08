@@ -83,9 +83,19 @@
     "idx_44891",
     "idx_44893",
     "idx_44894",
-    "idx_44882"
+    "idx_44882",
+    "idx_44899"
   ],
   "posts": [
+    {
+      "post_id": 379,
+      "news_id": "idx_44899",
+      "title": "소방차의 골든타임 사수! 맵퍼스 아틀란 내비게이션, 전국 소방 현장 출동 돕는다",
+      "slug": "mappers-atlan-navi-fire-truck-emergency-response",
+      "url": "https://car.shop-danawa.co.kr/?p=379",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44899",
+      "published_at": "2026-11-08 15:40:50"
+    },
     {
       "post_id": 378,
       "news_id": "idx_44882",
