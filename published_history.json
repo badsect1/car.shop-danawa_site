@@ -85,9 +85,19 @@
     "idx_44894",
     "idx_44882",
     "idx_44899",
-    "idx_44898"
+    "idx_44898",
+    "idx_44905"
   ],
   "posts": [
+    {
+      "post_id": 381,
+      "news_id": "idx_44905",
+      "title": "롤스로이스 스펙터 시리즈 II 및 블랙 배지 아태지역 최초 한국 공개",
+      "slug": "rolls-royce-spectre-series-ii-korea-launch",
+      "url": "https://car.shop-danawa.co.kr/?p=381",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44905",
+      "published_at": "2026-11-09 19:20:58"
+    },
     {
       "post_id": 380,
       "news_id": "idx_44898",
