@@ -84,9 +84,19 @@
     "idx_44893",
     "idx_44894",
     "idx_44882",
-    "idx_44899"
+    "idx_44899",
+    "idx_44898"
   ],
   "posts": [
+    {
+      "post_id": 380,
+      "news_id": "idx_44898",
+      "title": "현대 N, 서울·대구서 'N Moment' 팝업스토어 오픈… 아반떼 N 모노크롬 최초 전시",
+      "slug": "hyundai-n-moment-popup-store-seoul-daegu",
+      "url": "https://car.shop-danawa.co.kr/?p=380",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44898",
+      "published_at": "2026-11-09 03:43:43"
+    },
     {
       "post_id": 379,
       "news_id": "idx_44899",
