@@ -86,9 +86,19 @@
     "idx_44882",
     "idx_44899",
     "idx_44898",
-    "idx_44905"
+    "idx_44905",
+    "idx_44908"
   ],
   "posts": [
+    {
+      "post_id": 382,
+      "news_id": "idx_44908",
+      "title": "푸조, 네이버 공식 스토어 시승 서비스 도입… “탐색부터 구매까지 원스톱으로”",
+      "slug": "peugeot-naver-official-store-test-drive-service",
+      "url": "https://car.shop-danawa.co.kr/?p=382",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44908",
+      "published_at": "2026-11-10 05:17:20"
+    },
     {
       "post_id": 381,
       "news_id": "idx_44905",
