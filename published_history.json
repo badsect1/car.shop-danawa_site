@@ -87,9 +87,19 @@
     "idx_44899",
     "idx_44898",
     "idx_44905",
-    "idx_44908"
+    "idx_44908",
+    "idx_44909"
   ],
   "posts": [
+    {
+      "post_id": 383,
+      "news_id": "idx_44909",
+      "title": "BMW 코리아, 11월 온라인 한정 에디션 6종 출시… 7시리즈 퍼스트 에디션부터 M 블랙 에디션까지",
+      "slug": "bmw-korea-nov-online-limited-edition-6-models",
+      "url": "https://car.shop-danawa.co.kr/?p=383",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44909",
+      "published_at": "2026-11-10 16:41:19"
+    },
     {
       "post_id": 382,
       "news_id": "idx_44908",
