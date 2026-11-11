@@ -88,9 +88,19 @@
     "idx_44898",
     "idx_44905",
     "idx_44908",
-    "idx_44909"
+    "idx_44909",
+    "idx_44913"
   ],
   "posts": [
+    {
+      "post_id": 384,
+      "news_id": "idx_44913",
+      "title": "전기차의 한계를 넘었다, BYD 양왕 U9X 시속 503.17km 기네스 신기록 달성",
+      "slug": "yangwang-u9x-503-kmh-guinness-record",
+      "url": "https://car.shop-danawa.co.kr/?p=384",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44913",
+      "published_at": "2026-11-11 03:49:35"
+    },
     {
       "post_id": 383,
       "news_id": "idx_44909",
