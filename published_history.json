@@ -90,9 +90,19 @@
     "idx_44908",
     "idx_44909",
     "idx_44913",
-    "idx_44921"
+    "idx_44921",
+    "idx_44925"
   ],
   "posts": [
+    {
+      "post_id": 386,
+      "news_id": "idx_44925",
+      "title": "메르세데스-벤츠 코리아, 프리미엄 MPV '더 뉴 V 클래스' 국내 최초 공식 출시",
+      "slug": "mercedes-benz-the-new-v-class-korea-launch",
+      "url": "https://car.shop-danawa.co.kr/?p=386",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44925",
+      "published_at": "2026-11-12 04:57:18"
+    },
     {
       "post_id": 385,
       "news_id": "idx_44921",
