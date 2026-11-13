@@ -93,9 +93,19 @@
     "idx_44921",
     "idx_44925",
     "idx_44930",
-    "idx_44935"
+    "idx_44935",
+    "idx_44945"
   ],
   "posts": [
+    {
+      "post_id": 389,
+      "news_id": "idx_44945",
+      "title": "BMW 5시리즈, 올해 10월까지 국내 누적 판매 2만 대 돌파... 수입차 왕좌 굳건",
+      "slug": "bmw-5-series-sales-20000-units-2024",
+      "url": "https://car.shop-danawa.co.kr/?p=389",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44945",
+      "published_at": "2026-11-13 16:52:08"
+    },
     {
       "post_id": 388,
       "news_id": "idx_44935",
