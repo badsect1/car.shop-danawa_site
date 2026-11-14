@@ -95,9 +95,19 @@
     "idx_44930",
     "idx_44935",
     "idx_44945",
-    "idx_44937"
+    "idx_44937",
+    "idx_44939"
   ],
   "posts": [
+    {
+      "post_id": 391,
+      "news_id": "idx_44939",
+      "title": "벤틀리 최초의 순수 전기차 '토르칼(Torcal)' 개발 비하인드와 위장막 해제 순간",
+      "slug": "bentley-torcal-ev-suv-development-and-testing",
+      "url": "https://car.shop-danawa.co.kr/?p=391",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44939",
+      "published_at": "2026-11-14 15:25:18"
+    },
     {
       "post_id": 390,
       "news_id": "idx_44937",
