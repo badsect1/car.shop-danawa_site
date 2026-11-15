@@ -97,9 +97,19 @@
     "idx_44945",
     "idx_44937",
     "idx_44939",
-    "idx_44949"
+    "idx_44949",
+    "idx_44948"
   ],
   "posts": [
+    {
+      "post_id": 393,
+      "news_id": "idx_44948",
+      "title": "미래 오토모티브 인재 주목! GM 테크니컬센터 코리아, 2027년 동계 인턴십 100명 규모 대공개",
+      "slug": "gm-technical-center-korea-2027-winter-internship",
+      "url": "https://car.shop-danawa.co.kr/?p=393",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44948",
+      "published_at": "2026-11-15 15:58:36"
+    },
     {
       "post_id": 392,
       "news_id": "idx_44949",
