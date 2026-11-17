@@ -101,9 +101,19 @@
     "idx_44948",
     "idx_602124",
     "idx_44956",
-    "idx_44955"
+    "idx_44955",
+    "idx_44964"
   ],
   "posts": [
+    {
+      "post_id": 397,
+      "news_id": "idx_44964",
+      "title": "대형 트럭 타이어 방치하면 폭발 위험? 브리지스톤 상용차 점검 결과가 준 경고",
+      "slug": "bridgestone-commercial-tire-safety-check-results",
+      "url": "https://car.shop-danawa.co.kr/?p=397",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44964",
+      "published_at": "2026-11-17 18:03:31"
+    },
     {
       "post_id": 396,
       "news_id": "idx_44955",
