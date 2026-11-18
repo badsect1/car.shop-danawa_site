@@ -102,9 +102,19 @@
     "idx_602124",
     "idx_44956",
     "idx_44955",
-    "idx_44964"
+    "idx_44964",
+    "idx_44966"
   ],
   "posts": [
+    {
+      "post_id": 398,
+      "news_id": "idx_44966",
+      "title": "마세라티 코리아, 미식과 드라이빙을 결합한 '더 테이스트 오브 이탈리아' 개최",
+      "slug": "maserati-the-taste-of-italy-grecale-event",
+      "url": "https://car.shop-danawa.co.kr/?p=398",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44966",
+      "published_at": "2026-11-18 05:12:17"
+    },
     {
       "post_id": 397,
       "news_id": "idx_44964",
