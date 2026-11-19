@@ -105,9 +105,19 @@
     "idx_44964",
     "idx_44966",
     "idx_44967",
-    "idx_44972"
+    "idx_44972",
+    "idx_44981"
   ],
   "posts": [
+    {
+      "post_id": 401,
+      "news_id": "idx_44981",
+      "title": "벤츠 디 올 뉴 일렉트릭 GLB 공식 출시! 6,990만 원에 800V 초고속 충전 품은 차세대 패밀리 전기 SUV",
+      "slug": "mercedes-benz-the-all-new-electric-glb-launched",
+      "url": "https://car.shop-danawa.co.kr/?p=401",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44981",
+      "published_at": "2026-11-19 17:53:06"
+    },
     {
       "post_id": 400,
       "news_id": "idx_44972",
