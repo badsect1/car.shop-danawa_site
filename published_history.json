@@ -104,9 +104,19 @@
     "idx_44955",
     "idx_44964",
     "idx_44966",
-    "idx_44967"
+    "idx_44967",
+    "idx_44972"
   ],
   "posts": [
+    {
+      "post_id": 400,
+      "news_id": "idx_44972",
+      "title": "메르세데스-벤츠, 미국·독일에 핸즈프리 주행 보조 및 도심형 자율주행 도입",
+      "slug": "mercedes-benz-hands-free-mb-drive-assist-pro",
+      "url": "https://car.shop-danawa.co.kr/?p=400",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44972",
+      "published_at": "2026-11-19 05:06:00"
+    },
     {
       "post_id": 399,
       "news_id": "idx_44967",
