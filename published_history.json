@@ -107,9 +107,19 @@
     "idx_44967",
     "idx_44972",
     "idx_44981",
-    "idx_44980"
+    "idx_44980",
+    "idx_44996"
   ],
   "posts": [
+    {
+      "post_id": 403,
+      "news_id": "idx_44996",
+      "title": "허세 싹 뺀 진짜 프리미엄 전기차, 볼보 ES90 트윈모터 울트라 시승기",
+      "slug": "volvo-es90-twin-motor-ultra-ev-review",
+      "url": "https://car.shop-danawa.co.kr/?p=403",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44996",
+      "published_at": "2026-11-20 17:26:52"
+    },
     {
       "post_id": 402,
       "news_id": "idx_44980",
