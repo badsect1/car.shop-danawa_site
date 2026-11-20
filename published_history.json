@@ -106,9 +106,19 @@
     "idx_44966",
     "idx_44967",
     "idx_44972",
-    "idx_44981"
+    "idx_44981",
+    "idx_44980"
   ],
   "posts": [
+    {
+      "post_id": 402,
+      "news_id": "idx_44980",
+      "title": "애스턴마틴, 2027 다카르 랠리 출전 선언… 알론소·로브 '드림팀' 결성",
+      "slug": "aston-martin-2027-dakar-rally-alonso-loeb",
+      "url": "https://car.shop-danawa.co.kr/?p=402",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44980",
+      "published_at": "2026-11-20 04:55:44"
+    },
     {
       "post_id": 401,
       "news_id": "idx_44981",
