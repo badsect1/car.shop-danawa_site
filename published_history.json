@@ -108,9 +108,19 @@
     "idx_44972",
     "idx_44981",
     "idx_44980",
-    "idx_44996"
+    "idx_44996",
+    "idx_44989"
   ],
   "posts": [
+    {
+      "post_id": 404,
+      "news_id": "idx_44989",
+      "title": "제네시스 G80 하이브리드 세계 최초 공개, 2.5 터보 하파로 연비 14.1km/L 달성",
+      "slug": "genesis-g80-hybrid-world-premiere-la-auto-show",
+      "url": "https://car.shop-danawa.co.kr/?p=404",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44989",
+      "published_at": "2026-11-21 04:50:52"
+    },
     {
       "post_id": 403,
       "news_id": "idx_44996",
