@@ -111,9 +111,19 @@
     "idx_44996",
     "idx_44989",
     "idx_44991",
-    "idx_44995"
+    "idx_44995",
+    "idx_44994"
   ],
   "posts": [
+    {
+      "post_id": 407,
+      "news_id": "idx_44994",
+      "title": "현대차, 2026 LA오토쇼서 '디 올 뉴 아반떼' 전격 공개… 콤팩트 세단의 새로운 기준",
+      "slug": "hyundai-all-new-avante-2026-la-autoshow",
+      "url": "https://car.shop-danawa.co.kr/?p=407",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=44994",
+      "published_at": "2026-11-23 04:48:20"
+    },
     {
       "post_id": 406,
       "news_id": "idx_44995",
