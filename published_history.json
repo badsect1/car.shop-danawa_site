@@ -114,9 +114,19 @@
     "idx_44995",
     "idx_44994",
     "idx_44997",
-    "idx_45000"
+    "idx_45000",
+    "idx_45009"
   ],
   "posts": [
+    {
+      "post_id": 410,
+      "news_id": "idx_45009",
+      "title": "전기차 안 타본 사람도 2명 중 1명은 구매 희망? 2026 전기차 인식 조사 총정리",
+      "slug": "korea-ev-market-survey-consumer-perception-2026",
+      "url": "https://car.shop-danawa.co.kr/?p=410",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=45009",
+      "published_at": "2026-11-24 19:49:59"
+    },
     {
       "post_id": 409,
       "news_id": "idx_45000",
