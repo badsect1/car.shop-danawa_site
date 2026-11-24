@@ -113,9 +113,19 @@
     "idx_44991",
     "idx_44995",
     "idx_44994",
-    "idx_44997"
+    "idx_44997",
+    "idx_45000"
   ],
   "posts": [
+    {
+      "post_id": 409,
+      "news_id": "idx_45000",
+      "title": "피렐리 신형 겨울용 타이어 '아이스 제로 아시메트리코 2' 국내 출시, 성능과 특징 총정리",
+      "slug": "pirelli-ice-zero-asimmetrico-2-launch",
+      "url": "https://car.shop-danawa.co.kr/?p=409",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=45000",
+      "published_at": "2026-11-24 07:41:23"
+    },
     {
       "post_id": 408,
       "news_id": "idx_44997",
