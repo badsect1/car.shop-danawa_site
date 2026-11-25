@@ -115,9 +115,19 @@
     "idx_44994",
     "idx_44997",
     "idx_45000",
-    "idx_45009"
+    "idx_45009",
+    "idx_45008"
   ],
   "posts": [
+    {
+      "post_id": 411,
+      "news_id": "idx_45008",
+      "title": "11월 중고차 시세 대공개: 볼보 XC90 하락 vs 스포티지·경차 역주행의 비밀",
+      "slug": "november-2023-used-car-market-trends",
+      "url": "https://car.shop-danawa.co.kr/?p=411",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=45008",
+      "published_at": "2026-11-25 06:08:42"
+    },
     {
       "post_id": 410,
       "news_id": "idx_45009",
