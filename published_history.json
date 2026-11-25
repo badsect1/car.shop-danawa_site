@@ -116,9 +116,19 @@
     "idx_44997",
     "idx_45000",
     "idx_45009",
-    "idx_45008"
+    "idx_45008",
+    "idx_45018"
   ],
   "posts": [
+    {
+      "post_id": 412,
+      "news_id": "idx_45018",
+      "title": "내연기관 박스터의 완벽한 환생! 포르쉐 순수 전기 718 박스터 프로토타입 공개 (2027 출시)",
+      "slug": "porsche-all-electric-718-boxster-ev-prototype-reveal-2027",
+      "url": "https://car.shop-danawa.co.kr/?p=412",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=45018",
+      "published_at": "2026-11-25 18:57:30"
+    },
     {
       "post_id": 411,
       "news_id": "idx_45008",
