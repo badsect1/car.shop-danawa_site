@@ -117,9 +117,19 @@
     "idx_45000",
     "idx_45009",
     "idx_45008",
-    "idx_45018"
+    "idx_45018",
+    "idx_45016"
   ],
   "posts": [
+    {
+      "post_id": 413,
+      "news_id": "idx_45016",
+      "title": "메르세데스-벤츠, 도심까지 아우르는 레벨2 자율주행 'MB.DRIVE ASSIST PRO' 독일 규제 승인",
+      "slug": "mercedes-benz-mb-drive-assist-pro-german-approval",
+      "url": "https://car.shop-danawa.co.kr/?p=413",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=45016",
+      "published_at": "2026-11-26 05:59:55"
+    },
     {
       "post_id": 412,
       "news_id": "idx_45018",
