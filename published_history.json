@@ -120,9 +120,19 @@
     "idx_45018",
     "idx_45016",
     "idx_45026",
-    "idx_45022"
+    "idx_45022",
+    "idx_45029"
   ],
   "posts": [
+    {
+      "post_id": 416,
+      "news_id": "idx_45029",
+      "title": "마세라티, 뉴 그란투리스모·그란카브리오 국내 최초 공개… 이탈리안 럭셔리 GT의 진화",
+      "slug": "maserati-granturismo-grancabrio-korea-launch",
+      "url": "https://car.shop-danawa.co.kr/?p=416",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=45029",
+      "published_at": "2026-11-27 18:35:36"
+    },
     {
       "post_id": 415,
       "news_id": "idx_45022",
