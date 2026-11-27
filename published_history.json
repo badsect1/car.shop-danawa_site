@@ -119,9 +119,19 @@
     "idx_45008",
     "idx_45018",
     "idx_45016",
-    "idx_45026"
+    "idx_45026",
+    "idx_45022"
   ],
   "posts": [
+    {
+      "post_id": 415,
+      "news_id": "idx_45022",
+      "title": "180톤 보잉 747을 두 바퀴로 끌었다? BYD 덴자 B5의 미친 견인력",
+      "slug": "denza-b5-pulls-boeing-747-with-two-wheels",
+      "url": "https://car.shop-danawa.co.kr/?p=415",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=45022",
+      "published_at": "2026-11-27 05:54:12"
+    },
     {
       "post_id": 414,
       "news_id": "idx_45026",
