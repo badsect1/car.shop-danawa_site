@@ -121,9 +121,19 @@
     "idx_45016",
     "idx_45026",
     "idx_45022",
-    "idx_45029"
+    "idx_45029",
+    "idx_45028"
   ],
   "posts": [
+    {
+      "post_id": 417,
+      "news_id": "idx_45028",
+      "title": "2026 마카오 그랑프리 by 웨이브진 정인성, 전 세계 모터스포츠 팬들의 이목을 사로잡다",
+      "slug": "2026-macau-gp-wavezine-jung-in-sung",
+      "url": "https://car.shop-danawa.co.kr/?p=417",
+      "original_url": "https://www.motorgraph.com/news/articleView.html?idxno=45028",
+      "published_at": "2026-11-28 05:34:06"
+    },
     {
       "post_id": 416,
       "news_id": "idx_45029",
